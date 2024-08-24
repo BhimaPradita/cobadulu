@@ -2,6 +2,7 @@ RENCANA KULIAH KEDEPAN:
 
 - Belajar lebih dalam mengenai unity
   * Belajar C#
+  * Mendalami Unity
 - Ikut lomba lomba
   * Mengikuti gameseed
 - Publish game 
