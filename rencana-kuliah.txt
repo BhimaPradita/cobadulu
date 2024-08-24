@@ -4,3 +4,5 @@ RENCANA KULIAH KEDEPAN:
   * Belajar C#
 - Ikut lomba lomba
 - Publish game 
+- Mendapatkan IPK yang baik
+- Nilai diatas C
