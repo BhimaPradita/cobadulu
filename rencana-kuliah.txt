@@ -3,8 +3,11 @@ RENCANA KULIAH KEDEPAN:
 - Belajar lebih dalam mengenai unity
   * Belajar C#
   * Mendalami lagi koding menggunakan C#
+  * Mendalami Unity
 - Ikut lomba lomba
+  * Mengikuti gameseed
 - Publish game 
 - Mendapatkan IPK yang baik
 - Nilai diatas C
 - Mencari kerja sambilan
+- Menjadi pengurus BTNG
